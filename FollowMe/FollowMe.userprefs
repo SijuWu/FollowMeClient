@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SceneManager.cs">
+    <Files>
+      <File FileName="Assets\SceneManager.cs" Line="163" Column="1" />
+      <File FileName="Assets\InputManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Connection.cs" Line="361" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="D:\DropBox\Dropbox\UnityKinect\Kinect&amp;TouchScreen\Connection.cs" line="288" />
+      <Breakpoint enabled="false" file="D:\DropBox\Dropbox\UnityKinect\Kinect&amp;TouchScreen\Assets\SceneControl.cs" line="135" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

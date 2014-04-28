@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Connection.cs">
+    <Files>
+      <File FileName="Assets\Connection.cs" Line="17" Column="16" />
+      <File FileName="Assets\ServerSocket.cs" Line="59" Column="1" />
+      <File FileName="..\DropBox\Dropbox\UnityKinect\Kinect&amp;TouchScreen\Connection.cs" Line="301" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\FollowMe\Assets\ServerSocket.cs" line="62" />
+      <Breakpoint file="D:\FollowMe\Assets\ServerSocket.cs" line="56" />
+      <Breakpoint file="D:\FollowMe\Assets\Connection.cs" line="15" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
